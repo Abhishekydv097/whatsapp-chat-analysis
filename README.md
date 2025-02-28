@@ -22,11 +22,16 @@ The **WhatsApp Chat Analysis** project is a Python-based tool designed to analyz
 - **WordCloud**
 
 ## 📂 Project Structure
-WhatsApp-Chat-Analysis/ |-- app.py # Streamlit web app |-- chat_analysis.py # Core data processing and analysis |-- requirements.txt # Project dependencies |-- README.md # Project documentation
+WhatsApp-Chat-Analysis
 
-bash
-Copy
-Edit
+|-- app.py                     # Streamlit web app
+
+|-- chat_analysis.py           # Core data processing and analysis
+
+|-- requirements.txt           # Project dependencies
+
+|-- README.md                  # Project documentation
+
 
 ## 🚀 How to Run
 1. **Clone the Repository:**
